@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Coursetype;
+import com.readsea.entity.Coursetype;
 import com.chairz.mapper.CoursetypeMapper;
 import com.chairz.service.CoursetypeService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.chairz.mapper;
 
-import com.chairz.entity.Typepoint;
+import com.readsea.entity.Typepoint;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
 
 /**

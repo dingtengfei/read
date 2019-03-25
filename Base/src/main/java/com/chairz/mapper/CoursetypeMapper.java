@@ -1,6 +1,6 @@
 package com.chairz.mapper;
 
-import com.chairz.entity.Coursetype;
+import com.readsea.entity.Coursetype;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
 
 /**

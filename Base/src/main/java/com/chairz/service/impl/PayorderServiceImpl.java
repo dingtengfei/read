@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Payorder;
+import com.readsea.entity.Payorder;
 import com.chairz.mapper.PayorderMapper;
 import com.chairz.service.PayorderService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

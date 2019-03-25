@@ -1,6 +1,6 @@
 package com.chairz.service;
 
-import com.chairz.entity.Userstream;
+import com.readsea.entity.Userstream;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

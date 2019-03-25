@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Video;
+import com.readsea.entity.Video;
 import com.chairz.mapper.VideoMapper;
 import com.chairz.service.VideoService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

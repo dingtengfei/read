@@ -1,6 +1,6 @@
 package com.chairz.service;
 
-import com.chairz.entity.Typepoint;
+import com.readsea.entity.Typepoint;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

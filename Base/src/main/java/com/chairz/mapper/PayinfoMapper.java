@@ -1,6 +1,6 @@
 package com.chairz.mapper;
 
-import com.chairz.entity.Payinfo;
+import com.readsea.entity.Payinfo;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
 
 /**

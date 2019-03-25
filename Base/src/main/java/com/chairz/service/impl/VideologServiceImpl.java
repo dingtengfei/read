@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Videolog;
+import com.readsea.entity.Videolog;
 import com.chairz.mapper.VideologMapper;
 import com.chairz.service.VideologService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

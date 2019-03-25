@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Userwallet;
+import com.readsea.entity.Userwallet;
 import com.chairz.mapper.UserwalletMapper;
 import com.chairz.service.UserwalletService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

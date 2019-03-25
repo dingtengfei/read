@@ -1,6 +1,6 @@
 package com.chairz.service;
 
-import com.chairz.entity.Tradelog;
+import com.readsea.entity.Tradelog;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

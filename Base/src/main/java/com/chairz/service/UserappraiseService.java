@@ -1,6 +1,6 @@
 package com.chairz.service;
 
-import com.chairz.entity.Userappraise;
+import com.readsea.entity.Userappraise;
 import com.baomidou.mybatisplus.service.IService;
 
 /**

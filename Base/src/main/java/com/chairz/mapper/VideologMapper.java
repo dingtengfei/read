@@ -1,6 +1,6 @@
 package com.chairz.mapper;
 
-import com.chairz.entity.Videolog;
+import com.readsea.entity.Videolog;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
 
 /**

@@ -1,6 +1,6 @@
 package com.chairz.mapper;
 
-import com.chairz.entity.Userpromo;
+import com.readsea.entity.Userpromo;
 import com.baomidou.mybatisplus.mapper.BaseMapper;
 
 /**

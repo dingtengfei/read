@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Uservoucher;
+import com.readsea.entity.Uservoucher;
 import com.chairz.mapper.UservoucherMapper;
 import com.chairz.service.UservoucherService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;

@@ -1,6 +1,6 @@
 package com.chairz.service.impl;
 
-import com.chairz.entity.Coursepoint;
+import com.readsea.entity.Coursepoint;
 import com.chairz.mapper.CoursepointMapper;
 import com.chairz.service.CoursepointService;
 import com.baomidou.mybatisplus.service.impl.ServiceImpl;
