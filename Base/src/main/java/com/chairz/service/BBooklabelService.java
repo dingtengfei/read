@@ -1,7 +1,7 @@
 package com.chairz.service;
 
-import com.readsea.entity.BBooklabel;
 import com.baomidou.mybatisplus.service.IService;
+import com.chairz.entity.BBooklabel;
 
 /**
  * <p>
