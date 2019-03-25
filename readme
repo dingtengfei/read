@@ -1,2 +1,3 @@
 Base是所有的东西
 各自创建自己的Provide/Controller/Service/...等
+服务消费和提供需要明明的地方,前缀加上自己姓名首字母,别冲突
