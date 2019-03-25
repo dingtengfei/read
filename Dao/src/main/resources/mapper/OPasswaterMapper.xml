@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.OPasswaterMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.OPasswater">
+		<id column="id" property="id" />
+		<result column="uwid" property="uwid" />
+		<result column="passnum" property="passnum" />
+		<result column="startdate" property="startdate" />
+		<result column="endate" property="endate" />
+		<result column="validity" property="validity" />
+		<result column="createtime" property="createtime" />
+		<result column="type" property="type" />
+	</resultMap>
+
+</mapper>

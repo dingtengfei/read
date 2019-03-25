@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.AAuthordetailMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.AAuthordetail">
+		<result column="id" property="id" />
+		<result column="penname" property="penname" />
+		<result column="realname" property="realname" />
+		<result column="adress" property="adress" />
+		<result column="idtype" property="idtype" />
+		<result column="idnum" property="idnum" />
+		<result column="phone" property="phone" />
+		<result column="bankname" property="bankname" />
+		<result column="bankaccount" property="bankaccount" />
+	</resultMap>
+
+</mapper>

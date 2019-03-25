@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.MReplyBookmsgMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.MReplyBookmsg">
+		<id column="id" property="id" />
+		<result column="bid" property="bid" />
+		<result column="bmid" property="bmid" />
+		<result column="replytype" property="replytype" />
+		<result column="msg" property="msg" />
+		<result column="fromuid" property="fromuid" />
+		<result column="touid" property="touid" />
+	</resultMap>
+
+</mapper>

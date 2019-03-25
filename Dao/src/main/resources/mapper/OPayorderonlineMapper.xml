@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.OPayorderonlineMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.OPayorderonline">
+		<id column="id" property="id" />
+		<result column="uid" property="uid" />
+		<result column="uvid" property="uvid" />
+		<result column="money" property="money" />
+		<result column="payurl" property="payurl" />
+		<result column="createtime" property="createtime" />
+		<result column="info" property="info" />
+		<result column="flag" property="flag" />
+	</resultMap>
+
+</mapper>

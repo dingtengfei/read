@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.BBookdetailMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.BBookdetail">
+		<result column="id" property="id" />
+		<result column="clid" property="clid" />
+		<result column="publish" property="publish" />
+		<result column="firstpublish" property="firstpublish" />
+		<result column="intro" property="intro" />
+		<result column="mstate" property="mstate" />
+		<result column="bstate" property="bstate" />
+		<result column="createtime" property="createtime" />
+	</resultMap>
+
+</mapper>

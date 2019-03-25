@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.readsea.dao.UUserwalletMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.readsea.entity.UUserwallet">
+		<result column="id" property="id" />
+		<result column="totalcoins" property="totalcoins" />
+		<result column="readcoins" property="readcoins" />
+		<result column="losemoney" property="losemoney" />
+		<result column="totalpass" property="totalpass" />
+		<result column="losepass" property="losepass" />
+	</resultMap>
+
+</mapper>
